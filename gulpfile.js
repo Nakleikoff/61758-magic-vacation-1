@@ -18,7 +18,7 @@ var del = require("del");
 var concat = require("gulp-concat");
 
 gulp.task("css", function () {
-  return gulp.src("source/sass/style.scss")
+  return gulp.src("source/scss/style.scss")
     .pipe(plumber())
     .pipe(sourcemap.init())
     .pipe(sass())
