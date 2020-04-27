@@ -1,6 +1,6 @@
 # Личный проект «Таинственный отпуск» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Алексей Е.](http://up.ha.local/animation/1/user/61758).
+* Студент: Алексей Е.
 
 ---
 
